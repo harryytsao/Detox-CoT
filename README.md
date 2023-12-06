@@ -10,3 +10,4 @@ Before running the script, ensure you have the following:
 **Note**
 - Our experiments were conducted using 8 A100 GPUs with 40GB memory for fine-tuning and data generation.
 - Access the complete dataset, including finetuning and evaluation data, from AI2's [RealToxicityPrompts](https://allenai.org/data/real-toxicity-prompts)
+- Check out our presentation slide deck summarising our research experience -  https://docs.google.com/presentation/d/1AUWSJLxICEr5BcfJ1b5wLceU3S-hWQKmUHckSc-Vp-k/edit?usp=sharing !
